@@ -1,0 +1,8 @@
+
+{
+  "cmd": "create",
+  "nsid": "adc123",
+  "playerNumber": 5,
+  "timeout": 30,
+  "force": false
+}
